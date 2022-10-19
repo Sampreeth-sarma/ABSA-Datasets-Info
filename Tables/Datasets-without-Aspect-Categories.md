@@ -1,7 +1,7 @@
 [back to README.md](../README.md)
 
 This table gives a list of publicly available datasets for ABSA and its subtasks with no aspect category annotations. 
-If you want to add any new tasks or change any information, please create a fork of the master repository and create a pull request, so that we can verify it and commit the change.
+If you want to add any new datasets or change any information, please create a fork of the master repository and create a pull request, so that we can verify it and commit the change.
 
 
 | Index | Year | DatasetPaper                            | Domain                 | Lng | #Revs | #Sent | #AT-pos             | #AT-neg                                                                                                                          | #AT-neu | Link to the Dataset                                                                                                                                                      |
