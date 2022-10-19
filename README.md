@@ -8,8 +8,4 @@ We provide the following information in the form of tables:
 - [What are the publicly available datasets for ABSA with the aspect category annotations?](Tables/Datasets-with-Aspect-Categories.md)
 - [Which datasets could be used for which subtasks and which subtasks could be tackled using which datasets?](Tables/Datasets-Subtasks.md)
 
-<!-- [Subtasks of ABSA](Subtasks-Info.md)
-[ABSA Datasets with no Aspect Category Annotations ](Datasets-without-Aspect-Categories.md)
-[ABSA Datasets with Aspect Category Annotations ](Datasets-with-Aspect-Categories.md)
-[Which Datasets for which Subtasks?](Datasets-Subtasks.md) -->
-
+If you want to add any new tasks or datasets or change any information, please create a pull request, so that we can verify it and commit the change.
