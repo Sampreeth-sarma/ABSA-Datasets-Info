@@ -1,3 +1,6 @@
+This table shows which datasets could be used for which subtasks and which subtasks could be tackled using which datasets?
+If you want to add any new rows or change any information, please create a fork of the master repository and create a pull request, so that we can verify it and commit the change.
+
 | Index | Year | Dataset Paper                                                       | ATE | ATSA | ACD | ACSA | TD | TSD | ASD | TAD | TASD | ASTE | TOWE | ASQP |
 | ----- | ---- | ------------------------------------------------------------------- | --- | ---- | --- | ---- | -- | --- | --- | --- | ---- | ---- | ---- | ---- |
 | 1     | 2004 | CustomerReviews (Hu and Liu, 2004b)                                 | ✓   | ✓    | \-  | \-   | \- | \-  | \-  | \-  | \-   | \-   | \-   | \-   |
