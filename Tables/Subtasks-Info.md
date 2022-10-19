@@ -1,5 +1,8 @@
+[back to README.md](../README.md)
+
 This table gives a list of all the introduced Subtasks of ABSA since its evolution. 
 If you want to add any new tasks or change any information, please create a fork of the master repository and create a pull request, so that we can verify it and commit the change.
+
 
 | Index | Year | Paper                                                                    | Paper Link                                                                                                     | CommonName                          | Acronym | Input                                                                            | ExpectedOutput                                                                |
 | ----- | ---- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -15,3 +18,6 @@ If you want to add any new tasks or change any information, please create a fork
 | 10    | 2020 | [Wan etal., 2020](https://aaai.org/ojs/index.php/AAAI/article/view/6447) | [https://aaai.org/ojs/index.php/AAAI/article/view/6447](https://aaai.org/ojs/index.php/AAAI/article/view/6447) | Target Aspect Sentiment Detection   | TASD    | "The pasta was very yummy but the place has some weird smell."                   | (pasta, Food, positive), (place, Ambience, negative)                          |
 | 11    | 2019 | [Fan etal., 2019](https://doi.org/10.18653/v1/N19-1259)                  | [https://doi.org/10.18653/v1/N19-1259](https://doi.org/10.18653/v1/N19-1259)                                   | Target Opinion Word Extraction      | TOWE    | "The pasta was very yummy but the place has some weird smell."                   | (pasta, very yummy), (place, weird smell)                                     |
 | 12    | 2021 | [Zhang etal., 2021a](https://doi.org/10.48550/ARXIV.2110.00796)          | [https://doi.org/10.48550/ARXIV.2110.00796](https://doi.org/10.48550/ARXIV.2110.00796)                         | Aspect Sentiment QuadPrediction     | ASQP    | "The pasta was very yummy but the place has some weird smell."                   | (pasta, Food, positive, very yummy), (place, Ambience, negative, weird smell) |
+
+
+[back to README.md](../README.md)
