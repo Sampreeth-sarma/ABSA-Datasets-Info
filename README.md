@@ -1,4 +1,3 @@
-theme: Slate
 # ABSA-Datasets-Info
 Aspect-based sentiment analysis (ABSA) is a natural language processing problem that requires analyzing user-generated reviews to determine: a) The target entity being reviewed, b) The high-level aspect to which it belongs, and c) The sentiment expressed toward the targets and the aspects. 
 Numerous yet scattered corpora for ABSA make it difficult for researchers to identify corpora best suited for a specific ABSA subtask quickly. This repository provides a list of all the publicly available datasets for Aspect-based Sentiment Analysis along with the matching subtasks for each of the datasets. 
