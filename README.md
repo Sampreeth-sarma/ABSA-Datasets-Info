@@ -10,7 +10,7 @@ We provide the following information in the form of tables:
 
 If you want to add any new tasks or datasets or change any information, please create a pull request, so that we can verify it and commit the change.
 
-If you use our work in your research, please cite the following paper: 
+<!-- If you use our work in your research, please cite the following paper: 
 [Survey of Aspect-based Sentiment Analysis Datasets](https://arxiv.org/abs/2204.05232)
 ```
 @misc{chebolu2023survey,
@@ -22,3 +22,4 @@ If you use our work in your research, please cite the following paper:
       primaryClass={cs.CL}
 }
 ```
+ -->
